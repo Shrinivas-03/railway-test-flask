@@ -1,0 +1,5 @@
+Flask
+supabase
+smtplib
+email-validator
+gunicorn
